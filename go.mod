@@ -1,4 +1,4 @@
-module github.com/hazarek/pointilizm
+module github.com/setanarut/pointilizm
 
 go 1.17
 
