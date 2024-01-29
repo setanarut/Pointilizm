@@ -5,7 +5,7 @@ import (
 	"math"
 
 	"github.com/disintegration/gift"
-	"github.com/hazarek/pointilizm/matrix"
+	"github.com/setanarut/pointilizm/matrix"
 )
 
 // GetAngles get vector field angles
