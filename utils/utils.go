@@ -1,6 +1,3 @@
-// CC BY-NC 3.0
-// hazarek
-
 package utils
 
 import (
