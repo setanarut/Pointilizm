@@ -8,9 +8,9 @@ import (
 	"github.com/cenkalti/dominantcolor"
 	"github.com/disintegration/gift"
 	"github.com/fogleman/gg"
-	"github.com/hazarek/pointilizm/angles"
-	"github.com/hazarek/pointilizm/matrix"
-	"github.com/hazarek/pointilizm/utils"
+	"github.com/setanarut/pointilizm/angles"
+	"github.com/setanarut/pointilizm/matrix"
+	"github.com/setanarut/pointilizm/utils"
 	"github.com/lucasb-eyer/go-colorful"
 )
 
