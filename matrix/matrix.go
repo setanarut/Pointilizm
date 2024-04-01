@@ -30,7 +30,7 @@ func (m *Mat) Min() float64 {
 	return min
 }
 
-// Min - get minimum value
+// Max - get maximum value
 func (m *Mat) Max() float64 {
 	max := m.Slice[0]
 	for _, v := range m.Slice {
